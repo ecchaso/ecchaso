@@ -2,15 +2,18 @@
 
 こんにちは、熊本悦士です。  
 私は、深層学習について興味を持ち、研究に取り組む大学院生です。  
-主に、森林DXや歩容認証についての研究に取り組んでいます。
+主に、林業DXや歩容認証についての研究に取り組んでいます。
 
 ### 📚 学会発表
 これまでに複数の学会で研究成果を発表しています。(Firstでの発表のみ)  
 
+#### 林業DX
 - [**深層学習に基づく林内全天球画像からの森林計測システムの提案**](https://x.gd/ZMnjG)、JHES2023
 - [**深層学習に基づく多段階解像度のUAV オルソ画像からの樹種判別システム**](https://ipsj.ixsq.nii.ac.jp/records/236129)、第86回情報処理学会全国大会
 - [**深層学習に基づく林内全天球画像からの森林計測システム　- マルチタスク学習を用いたシステムの提案と評価 -** ](https://www.tc-iaip.org/view/2024/program.html)、ViEW2024
 - **A Personal Authentication Method Using  Insole-Type Gait Sensors Based on Deep Metric Learning**、InCIT2024
+  
+#### 歩容認証
 - **深層学習に基づくUAVオルソ画像からの樹種判別システム - ConvNeXtとMetric Learningを用いた精度向上の試み -** 、SSII2025
 
 ### 🎖受賞歴
