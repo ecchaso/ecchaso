@@ -10,8 +10,8 @@
 - [**深層学習に基づく林内全天球画像からの森林計測システムの提案**](https://x.gd/ZMnjG)、JHES2023
 - [**深層学習に基づく多段階解像度のUAV オルソ画像からの樹種判別システム**](https://ipsj.ixsq.nii.ac.jp/records/236129)、第86回情報処理学会全国大会
 - [**深層学習に基づく林内全天球画像からの森林計測システム　- マルチタスク学習を用いたシステムの提案と評価 -** ](https://www.tc-iaip.org/view/2024/program.html)、ViEW2024
-
 - **A Personal Authentication Method Using  Insole-Type Gait Sensors Based on Deep Metric Learning**、InCIT2024
+- **深層学習に基づくUAVオルソ画像からの樹種判別システム - ConvNeXtとMetric Learningを用いた精度向上の試み - **、SSII2025
 
 ### 🎖受賞歴
 学会での受賞歴は以下の通りです。　　
