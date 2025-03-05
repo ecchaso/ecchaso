@@ -8,13 +8,13 @@
 これまでに複数の学会で研究成果を発表しています。(Firstでの発表のみ)  
 
 #### 林業DX
-- [**深層学習に基づく林内全天球画像からの森林計測システムの提案**](https://x.gd/ZMnjG)、JHES2023
+- [**深層学習に基づく林内全天球画像からの森林計測システムの提案**](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202402254833115256&rel=1#%7B%22category%22%3A%220%22%2C%22keyword%22%3A%22%5C%22%E7%86%8A%E6%9C%AC%E6%82%A6%E5%A3%AB%5C%22%22%7D)、JHES2023
 - [**深層学習に基づく多段階解像度のUAV オルソ画像からの樹種判別システム**](https://ipsj.ixsq.nii.ac.jp/records/236129)、第86回情報処理学会全国大会
 - [**深層学習に基づく林内全天球画像からの森林計測システム　- マルチタスク学習を用いたシステムの提案と評価 -** ](https://www.tc-iaip.org/view/2024/program.html)、ViEW2024
-- **A Personal Authentication Method Using  Insole-Type Gait Sensors Based on Deep Metric Learning**、InCIT2024
+- **深層学習に基づくUAVオルソ画像からの樹種判別システム - ConvNeXtとMetric Learningを用いた精度向上の試み -** 、SSII2025 (発表予定)
   
 #### 歩容認証
-- **深層学習に基づくUAVオルソ画像からの樹種判別システム - ConvNeXtとMetric Learningを用いた精度向上の試み -** 、SSII2025
+- [**A Personal Authentication Method Using  Insole-Type Gait Sensors Based on Deep Metric Learning**](https://dit.rsu.ac.th/incit2024/en/poster-instruction.html)、InCIT2024
 
 ### 🎖受賞歴
 学会での受賞歴は以下の通りです。　　
