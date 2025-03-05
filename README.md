@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**ecchaso/ecchaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+こんにちは、**[Your Name]** です。私は、深層学習と全天球画像を用いた森林計測システムの開発を専門とする大学院生です。AI技術を活用し、森林モニタリングの精度向上と効率化を目指した研究に取り組んでいます。
 
-Here are some ideas to get you started:
+### 📚 学会発表
+これまでに複数の学会で研究成果を発表しています。主な論文は以下の通りです。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[論文タイトル]**、[学会名]、[年]。[[リンク]]
+- **[論文タイトル]**、[学会名]、[年]。[[リンク]]
+- **[論文タイトル]**、[学会名]、[年]。[[リンク]]
+
+### 💻 スキル
+深層学習モデルの開発、最適化、デプロイメントの経験があります。主な技術スキルは以下の通りです。
+
+- **深層学習フレームワーク**: TensorFlow/Keras, PyTorch
+- **開発環境**: Ubuntu, Docker, Git
+- **プログラミング**: Python
+- **その他**: AIモデルのデプロイ、画像処理、距離学習
+
+### 🚀 現在の目標
+現在、**サーバーサイド開発やOSの基礎知識**を学びながら、AIをWebやハードウェアと統合する方法を模索しています。将来的には、AIの社会実装を得意とするエンジニアを目指しています。
+
+### 📫 連絡先
+- **GitHub**: [Your GitHub Profile]
+- **Email**: [Your Email]
+- **LinkedIn**: [Your LinkedIn Profile]
+
+ぜひ、一緒に技術革新を進めましょう！🚀
