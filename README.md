@@ -26,7 +26,7 @@
 ### 💻 スキル
 深層学習モデルの開発、最適化の経験があります。主な技術スキルは以下の通りです。
 
-- **深層学習フレームワーク**: TensorFlow/Keras
+- **深層学習フレームワーク**: TensorFlow/Keras, pytorch
 - **開発環境**: Ubuntu, Docker, Git
 - **プログラミング**: Python
 
