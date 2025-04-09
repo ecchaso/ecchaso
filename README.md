@@ -6,7 +6,6 @@
 
 ### 📚 学会発表
 これまでに複数の学会で研究成果を発表しています。(Firstでの発表のみ)  
-予稿を参照されたい場合は、ご連絡ください。
 
 #### 林業DX
 - [**深層学習に基づく林内全天球画像からの森林計測システムの提案**](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202402254833115256&rel=1#%7B%22category%22%3A%220%22%2C%22keyword%22%3A%22%5C%22%E7%86%8A%E6%9C%AC%E6%82%A6%E5%A3%AB%5C%22%22%7D)、JHES2023
@@ -17,7 +16,7 @@
   
 #### 歩容認証
 - [**A Personal Authentication Method Using  Insole-Type Gait Sensors Based on Deep Metric Learning**](https://dit.rsu.ac.th/incit2024/en/poster-instruction.html)、InCIT2024
-- **深層学習に基づくインソール型歩容センサを用いた個人認証手法の検討**、BioX6月研究会
+- **深層学習に基づくインソール型歩容センサを用いた個人認証手法の検討**、BioX6月研究会(発表予定)
 
 ### 🎖受賞歴
 学会での受賞歴は以下の通りです。　　
