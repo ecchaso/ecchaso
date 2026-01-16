@@ -1,6 +1,5 @@
 ## 熊本悦士の名刺代わりのページです
 
-こんにちは、熊本悦士です。  
 AIをはじめとする先端技術の社会実装を得意とする技術者を目指しています．
 
 ### 学会発表
@@ -33,6 +32,3 @@ AIをはじめとする先端技術の社会実装を得意とする技術者を
 
 #### 連絡先
 - **Email**: c6500780@st.kanazwa-it.ac.jp
-
-- ![snake gif](https://github.com/ユーザー名/ユーザー名/blob/output/github-contribution-grid-snake.svg)
-
