@@ -1,7 +1,7 @@
 ## 熊本悦士の名刺代わりのページです
 
 こんにちは、熊本悦士です。  
-AIははじめとする先端技術の社会実装を得意とする技術者を目指しています．
+AIをはじめとする先端技術の社会実装を得意とする技術者を目指しています．
 
 ### 学会発表
 これまでに複数の学会で研究成果を発表しています。
@@ -13,7 +13,7 @@ AIははじめとする先端技術の社会実装を得意とする技術者を
 - [**深層学習に基づくUAVオルソ画像からの樹種判別システム - ConvNeXtとMetric Learningを用いた精度向上の試み -**](https://pub.confit.atlas.jp/ja/event/ssii2025/presentation/IS3-26)** 、SSII2025 
 - [**深層学習に基づく林内全天球画像からの森林計測システム - マルチタスク学習を用いたシステムのさらなる推定精度向上の試み -**](https://cvim.ipsj.or.jp/index.php?id=cvim241p-1)、CVIM5月研究会 
   
-#### 歩容認証
+#### 歩容を証
 - [**A Personal Authentication Method Using  Insole-Type Gait Sensors Based on Deep Metric Learning**](https://dit.rsu.ac.th/incit2024/en/poster-instruction.html)、InCIT2024
 - [**深層学習に基づくインソール型歩容センサを用いた個人認証手法の検討**](https://www.ite.or.jp/ken/paper/20250605wAnZ/)、BioX5月研究会
 - [**深層学習による歩容認証モデルへの長期間データ活用の有効性の検討**](https://jp.his.gr.jp/events/symposium2025/hi2025-schedule/)、HIシンポジウム
@@ -33,3 +33,6 @@ AIははじめとする先端技術の社会実装を得意とする技術者を
 
 #### 連絡先
 - **Email**: c6500780@st.kanazwa-it.ac.jp
+
+- ![snake gif](https://github.com/ユーザー名/ユーザー名/blob/output/github-contribution-grid-snake.svg)
+
